@@ -1,2 +1,4 @@
-package fansix.maven;public class profile {
+package fansix.maven;
+
+public class profile {
 }
